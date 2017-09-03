@@ -20,8 +20,9 @@ https://fonts.google.com/specimen/Ubuntu
 
 #Handwritten fonts:
 -------------------------------------------------------------------------------------------
-https://fonts.google.com/specimen/Leckerli+One
-https://fonts.google.com/specimen/Arizonia
-https://fonts.google.com/specimen/Pacifico
-https://fonts.google.com/specimen/Great+Vibes
-https://fonts.google.com/specimen/Montez
+- https://fonts.google.com/specimen/Leckerli+One
+- https://fonts.google.com/specimen/Arizonia
+- https://fonts.google.com/specimen/Pacifico
+- https://fonts.google.com/specimen/Great+Vibes
+- https://fonts.google.com/specimen/Montez
+- https://fonts.google.com/specimen/Dancing+Script
