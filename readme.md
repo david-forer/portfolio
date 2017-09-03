@@ -10,6 +10,7 @@ When deciding on my website I wanted to it to be minimal, professional and have 
     *Challenges
     *Code
     *Finished Product
+    
 # Inspiration
 ----------------------------------
-My inspiration is derived from things that I like. I felt it was best to use other websites first as inspiration and then fond myself looking at art and pictures for a lot more of my vision. 
+My inspiration is derived from things that I like. I felt it was best to use other websites first as inspiration and then found myself looking at art and pictures for a lot more of my vision. For the actual websites please go to my folder called 
