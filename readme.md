@@ -18,3 +18,4 @@ My inspiration is derived from things that I like. I felt it was best to use oth
 # Design
 ------------------------------------------
 [Scanned Document.pdf](https://github.com/david-forer/portfolio/files/1291002/Scanned.Document.pdf) My design has stayed the same from the beginning except for my background. I found that the background image wasn't loading properly so I made some subtle changes to it. I wanted the navigation in the upper left and the logo in the upper right for usability. I have 2 main content sections for the basis of my story on each page. The final element is the footer which originally was 2 boxe but later revised to 1 and centered.
+![codepenexample](https://user-images.githubusercontent.com/29668345/30254114-e3f150e2-96d6-11e7-8929-689fac6533d6.png)
