@@ -22,8 +22,8 @@ https://github.com/david-forer/portfolio/blob/master/Portfolio-examples.md
 
 # Changes
 ------------------------------------------
-The only real change was deleted one of my flexbox's in the bottom footer section. I also had to revise some of my coloring based on staying with the black and the white with red as the standout color. Originally I had some very small colors added to my form and the social icons.
+The only real change was I deleted one of my flexbox's in the bottom footer section. I also had to revise some of my coloring based on staying with the black and the white with red as the standout color. I found the basic colors were to hard on the eyes and I softened thenm slightly to #f0f0f0, #101010 and #f0000. To make my navigation stand out I needed to change the backgrounds of the links to make them pop. Originally I had some very small colors added to my form and the social icons and decided to remove them to keep my color palette.
 
 # Challenges
 --------------------------------------------
-The background image was the main challenge to my site. Getting it so it was clean and clear but also spanned the whole page properly. I also had some issues with the contact form working properly and tried to upload a javascript file that essentially wrecked my site. I needed to understand how to use flexbox properly for a responsive site. Finally I didn't properly back up my site and twice deleted my files and had to rebuild my site. 
+The background image was the main challenge to my site. Getting it so it was clean and clear but also spanned the whole page properly. I also had some issues with the contact form working properly and tried to upload a javascript file that essentially wrecked my site. I needed to understand how to use flexbox properly for a responsive site. It took many hours of research, watching videos and playing in codepen. Finally I didn't properly back up my site and twice deleted my files and had to rebuild my site. 
