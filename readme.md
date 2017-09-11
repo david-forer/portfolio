@@ -16,6 +16,8 @@ My inspiration is derived from things that I like. I felt it was best to use oth
 - https://github.com/david-forer/portfolio/blob/master/Portfolio-examples.md
 - https://github.com/david-forer/portfolio/blob/master/Fonts-i-like.md
 
+![igor](https://user-images.githubusercontent.com/29668345/30255974-8c713396-96ea-11e7-8f2e-f3c06c447989.png)
+
 # Design
 ------------------------------------------
 [Scanned Document.pdf](https://github.com/david-forer/portfolio/files/1291002/Scanned.Document.pdf) My design has stayed the same from the beginning except for my background. I found that the background image wasn't loading properly so I made some subtle changes to it. I wanted the navigation in the upper left and the logo in the upper right for usability. I have 2 main content sections for the basis of my story on each page. The final element is the footer which originally was 2 boxes but later revised to 1 and centered.
