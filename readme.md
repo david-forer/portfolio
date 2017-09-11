@@ -12,8 +12,9 @@ When deciding on my website I wanted to it to be minimal, professional and have 
 # Inspiration
 ----------------------------------
 My inspiration is derived from things that I like. I felt it was best to use other websites first as inspiration and then found myself looking at art and pictures for a lot more of my vision. For the actual websites please go to my folder called portfolio examples. I wanted a single static image homepage with links to three more pages. I chose my colors based on my personal style and they were black, white and red. 
-https://au.pinterest.com/davidjforer/standing-out/
-https://github.com/david-forer/portfolio/blob/master/Portfolio-examples.md
+- https://au.pinterest.com/davidjforer/standing-out/
+- https://github.com/david-forer/portfolio/blob/master/Portfolio-examples.md
+- https://github.com/david-forer/portfolio/blob/master/Fonts-i-like.md
 
 # Design
 ------------------------------------------
