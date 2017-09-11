@@ -1,6 +1,6 @@
 # My Portfolio Website
 ------------------------
-When deciding on my website I wanted to it to be minimal, professional and have the ability to capture my personality. Those three attributes can sometimes be at odds so it was a challenge. I realized early on that this was wouldn't happen in equal portions and I would have to rank the importance of the factors. I think showing my personality is the most important concept to portay as it will be the determining factor in where I will work. I think the next quality to showcase is my professionalism and the experience I possess. Finally I will try to keep the design as minimal as possible to show case the other two attributes. 
+When deciding on my website I wanted to it to be minimal, professional and have the ability to capture my personality. Those three attributes can sometimes be at odds so it was a challenge. I realized early on that this was wouldn't happen in equal portions and I would have to rank the importance of the factors. I think showing my personality is the most important concept to portay as it will be the determining factor in where I will work. I think the next quality to showcase is my professionalism and the experience I possess. Finally I will try to keep the design as minimal as possible to show case the other two attributes. By going with simple and minimal it will allow me the flexibilty to make changes in the future.
 
 # Content
 ----------------------------------------
