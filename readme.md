@@ -27,7 +27,7 @@ My inspiration is derived from things that I like. I felt it was best to use oth
 
 # Changes
 ------------------------------------------
-The only real change was I deleted one of my flexbox's in the bottom footer section. I also had to revise some of my coloring based on staying with the black and the white with red as the standout color. I found the basic colors were to hard on the eyes and I softened thenm slightly to #f0f0f0, #101010 and #f0000. To make my navigation stand out I needed to change the backgrounds of the links to make them pop. Originally I had some very small colors added to my form and the social icons and decided to remove them to keep my color palette.
+The first change made was I deleted one of my flexbox's in the bottom footer section as it didn't have a purpose on my site. I also had to revise some of my coloring based on staying with the black and the white with red as the standout color. I found the basic colors were to hard on the eyes and I softened thenm slightly to #f0f0f0, #101010 and #f0000. To make my navigation stand out I needed to change the backgrounds of the links to make them pop. Originally I had some very small colors added to my form and the social icons and decided to remove them to keep my color palette.
 
 # Challenges
 --------------------------------------------
