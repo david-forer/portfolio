@@ -8,9 +8,7 @@ When deciding on my website I wanted to it to be minimal, professional and have 
     *Design
     *Changes
     *Challenges
-    *Code
-    *Finished Product
-    
+       
 # Inspiration
 ----------------------------------
 My inspiration is derived from things that I like. I felt it was best to use other websites first as inspiration and then found myself looking at art and pictures for a lot more of my vision. For the actual websites please go to my folder called portfolio examples. I wanted a single static homepage with links to three more pages. I chose my colors based on my personal style and they were black, white and red. 
